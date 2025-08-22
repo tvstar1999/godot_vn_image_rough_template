@@ -1,0 +1,1 @@
+# godot_vn_image_rough_template
